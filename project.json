@@ -1,5 +1,16 @@
 {
+  "name":"FirebaseDotNetCore",
+  "title": "Firebase .NET Core",
+  "description": "A .NET Core compatible Firebase.io client",
+  "authors": [
+    "Tre`Von McKay",
+    "Robert Horvick"
+  ],
+  "owners": [
+    "Tre`Von McKay"
+  ],
   "version": "1.0.0-*",
+  "projectUrl": "https://github.com/trevonmckay/FirebaseDotNetCore",
   "buildOptions": {
     "debugType": "portable"
   },
